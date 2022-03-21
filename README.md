@@ -41,7 +41,12 @@ vikram.shyam-1@nasa.gov</br>
 
 # Projects
 ## <a href="https://github.com/nasa-petal/PeTaL-labeller">PeTaL Labeller</a>
-The petal labeller is a project that seeks to categorize biomimicry papers for engineers. Engineers are interested in lifeforms that have great thermal resistance, structural rigidity, ability to stick to things under water, etc. Life has has millions of years to evolve into the best version of itself. We as humans are in the beginnings of all our designs. If we can based designs off nature's evolution then perhaps we can have highly efficient airplanes with flapping wings or drones that look like bugs. Nature is one of our most valuable resources. There are many researchers dedicated towards understanding nature. Engineers often do not look at biology papers or know their terminology but we would like to search them. The goal of this tool is to help enable that.
+The PeTaL (Periodic Tabel of Life) labeller is a project that seeks to categorize biomimicry papers for engineers. Engineers are interested in lifeforms that have great thermal resistance, structural rigidity, ability to stick to things under water, etc. Life has has millions of years to evolve into the best version of itself. We as humans are in the beginnings of all our designs. If we can based designs off nature's evolution then perhaps we can have highly efficient airplanes with flapping wings or drones that look like bugs. Nature is one of our most valuable resources. There are many researchers dedicated towards understanding nature. Engineers often do not look at biology papers or know their terminology but we would like to search them. The goal of this tool is to help enable that.
 
 ## <a href="https://github.com/BashirMekki/GA-Optimization-Tool">GA-Optimization-Tool</a>
 DESCRIPTION
+
+## <a href="https://gitlab.grc.nasa.gov/machine-learning/pinn-poisson">PINNs*</a>
+PINNs stands for Physics Informed Neural Networks. This exploratory project on using PINNs to solve various partial differential equations (PDEs). Comparisons between this method and classical iterative solvers is also included.
+
+*Available Summer 2022. This Repo is not currently available to the public.
